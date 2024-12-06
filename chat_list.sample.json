@@ -1,22 +1,16 @@
 [
     {
-        "source": -10012345678,
-        "destination": [-10098765432, -10012345678]
+        "source": -1001482012985,
+        "destination": [-1002337455535]
     },
     {
-        "source": -10098765432,
-        "destination": [-10012345678, "-10012345678#98765"],
-        "filters": ["word1", "word2"]
+        "source": -1001482012985,
+        "destination": [-1002337455535],
+        "filters": ["BUY", "SELL", "Entry", "Take-Profit", "Stop-Loss", "Leverage"]
     },
     {
-        "source": -10087654321,
-        "destination": [-10033333333],
-        "blacklist": ["word3", "word4"]
+        "source": -1001722403593,
+        "destination": [-1002337455535],
+        "blacklist": ["Entry", "Targets", "Stop Targets", "Leverage"]
     },
-    {
-        "source": -10087654321,
-        "destination": [-10033333333],
-        "filters": ["word5"],
-        "blacklist": ["word6"]
-    }
 ]
